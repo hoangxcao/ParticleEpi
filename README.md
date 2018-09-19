@@ -1,2 +1,2 @@
 # ParticleEpi
-Implementation of Epidemic Game model
+Implementation of an Unity Epidemic Game
